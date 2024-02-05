@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import $ from "jquery";
-// import { FaQuoteRight, FaStarHalf } from 'react-icons/fa'
 
 import { Pagination, Navigation, Autoplay } from "swiper";
 
