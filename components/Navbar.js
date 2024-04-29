@@ -43,7 +43,7 @@ const Navbar = () => {
 
           <a href="#" className='nav_logo text-title-color font-font-medium hover:text-first-color
           md:font-bold
-          '>Sufian Masood</a>
+          '>Zohaib Rustam</a>
 
 
           {/* THIS BELOW DIV POPS UP IN MOBILE */}
