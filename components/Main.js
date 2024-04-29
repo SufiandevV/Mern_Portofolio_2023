@@ -163,7 +163,7 @@ const Main = () => {
               {/* social links */}
               <div className="home_social text-[1.35rem] md:order-1 md:self-start lg:self-center">
                 <a
-                  href="https://www.linkedin.com/in/sufian-masood-b68630224/"
+                  href="https://www.linkedin.com/in/zohaib-rustam-3a8a67194/"
                   target="_blank"
                   rel="noreferrer"
                   className="home_social-icon"
@@ -206,7 +206,7 @@ const Main = () => {
                       x={0}
                       y={-1}
                       preserveAspectRatio="xMidYMid slice"
-                      href="/dp.jpeg"
+                      href="/zaibi.jpeg"
                     />
                   </g>
                 </svg>
@@ -214,7 +214,7 @@ const Main = () => {
               {/* front description */}
               <div className="Home_Details col-span-2 md:col-span-1 md:order-2 ">
                 <h1 className="text-[2.2rem] sm:text-[2rem] lg:text-[2.5rem] xl:text-[3rem] text-[#000036] ">
-                  Hi, I&apos;m Sufian Masood{" "}
+                  Hi, I&apos;m Zohaib Rustam{" "}
                 </h1>
                 <h3 className="text-h3-font-size font-medium text-text-color mb-5">
                   MERN Stack Developer{" "}
@@ -265,7 +265,7 @@ const Main = () => {
                 className="rounded-3xl shadow-xl mx-auto object-cover
                  w-[270px] h-[250px] 
                  lg:w-[280px] h-[300px] "
-                src="/dp.jpeg"
+                src="/zaibi.jpeg"
                 alt="About image"
               />
             </div>
@@ -592,8 +592,7 @@ const Main = () => {
         </ul>
 
         <div
-          className="project-container 
-        flex flex-wrap gap-y-5 gap-x-5 min-h-[300px]"
+          className="project-container"
           // grid
           // grid-cols-2
           // md:grid-cols-3
@@ -831,7 +830,7 @@ const Main = () => {
                         href="mailto:emailsufian18919@gmail.com"
                         className="contact_subtitle"
                       >
-                        emailsufian18919@gmail.com
+                        zohaib.rustam@gmail.com
                       </a>
                     </div>
                   </div>
@@ -890,7 +889,7 @@ const Main = () => {
             <div>
               <h1 className="text-h1-font-size mb-[0.25rem] text-white">
                 {" "}
-                Sufian Masood
+                Zohaib Rustam
               </h1>
               <span className="text-normal-font-size ">
                MERN Stack Developer
@@ -928,7 +927,7 @@ const Main = () => {
             </div>
 
             <div className="text-small-font-size text-center text-text-color-light mt-2">
-              <p>Sufian Masood &#169;. All Rights Reserved</p>
+              <p>Zohaib Rustam &#169;. All Rights Reserved</p>
             </div>
           </div>
         </div>

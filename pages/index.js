@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Sufian Masood Portfolio</title>
+        <title>Zohaib Rustam Portfolio</title>
         <meta name="description" content="Portfolio" />
         <link rel="icon" href="/favicon.ico" />
 
