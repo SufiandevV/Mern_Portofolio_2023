@@ -816,7 +816,7 @@ const Main = () => {
                         onClick={copyphone}
                         className="contact_subtitle hover:cursor-pointer"
                       >
-                        +92-3200501443
+                        +92-3097850095
                       </p>
                     </div>
                   </div>
@@ -827,10 +827,10 @@ const Main = () => {
                     <div>
                       <h3 className="contact_title">Email Me</h3>
                       <a
-                        href="mailto:emailsufian18919@gmail.com"
+                        href="mailto:khanzaibi191@gmail.com"
                         className="contact_subtitle"
                       >
-                        zohaib.rustam@gmail.com
+                        khanzaibi191@gmail.com
                       </a>
                     </div>
                   </div>
